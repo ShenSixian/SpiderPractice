@@ -1,0 +1,53 @@
+1507277395537	geckodriver	INFO	Listening on 127.0.0.1:61487
+1507277718229	geckodriver	INFO	geckodriver 0.19.0
+1507277718284	geckodriver	INFO	Listening on 127.0.0.1:64715
+1507277720619	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\310\\AppData\\Local\\Temp\\rust_mozprofile.We2x536Fnelp"
+1507277726415	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Firefox/omni.ja!/components/addonManager.js:65
+1507277729489	Marionette	INFO	Enabled via --marionette
+[Parent 62272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 83476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507277759259	Marionette	INFO	Listening on port 64744
+1507277760055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507277760209	Marionette	DEBUG	Register listener.js for window 4294967297
+1507277760552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507277762100	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507277762101	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507277771878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tieba.baidu.com/p/5349935015"
+1507277793119	Marionette	DEBUG	Received DOM event "pageshow" for "http://tieba.baidu.com/p/5349935015"
+[Parent 62272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 62272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e	INFO	Listening on port 64795
+1507277767770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507277773162	Marionette	DEBUG	Register listener.js for window 4294967297
+1507277773464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507277774545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507277774546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507277791845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tieba.baidu.com/p/5349935015"
+JavaScript error: http://nc.baidu.com/api/blades/cp?token=tk0.68945809785715071507277792179&blades=bubbZvmyCwOQ7~o_sbb4zmH7G7wBV0xBq0_mmH7G7wBV0x7q0_Sb-0ccb-0cQbbcwb-pcBsbnLsbnTsbnRsbnKt0jbyPZn0d22nZOnKqGlhgpnZjZTMbn0JnyoynUnXnUn90ZK0nabnAcFernYMCSufjunAaK8Knnnb9b-mvlY00olLYo00EUGsbc~sbctsbcHsbcObboxmyPz0hvKF_ymCIrW~DaCqEr8S8rv_bsbc-buBElu72CbbnFsbnibuBW-YS2YsbnjsbnPsbnfsbnXmEAGvQsG0x7G0~s2n~7~DY72ok&fpUid=1feeced32000306d9ff98359c2670f23&source=nc&tpl=pp&callback=jsonp_06882910569179757&t=0.17896015578130464, line 1: TypeError: jsonp_06882910569179757 is not a function
+1507277822944	Marionette	DEBUG	Received DOM event "pageshow" for "http://tieba.baidu.com/p/5349935015"
+[Parent 83268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 83268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507277862748	geckodriver	INFO	geckodriver 0.19.0
+1507277862806	geckodriver	INFO	Listening on 127.0.0.1:49179
+1507277865726	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\310\\AppData\\Local\\Temp\\rust_mozprofile.XsebWIKNbuB4"
+1507277881579	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Firefox/omni.ja!/components/addonManager.js:65
+1507277884147	Marionette	INFO	Enabled via --marionette
+[Child 83988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///D:/Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1507277893768	Marionette	INFO	Listening on port 49188
+1507277894001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507277894093	Marionette	DEBUG	Register listener.js for window 4294967297
+1507277894178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507277895343	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507277895344	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507277899944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tieba.baidu.com/p/5349935015"
+1507277901129	Marionette	DEBUG	Received DOM event "pageshow" for "http://tieba.baidu.com/p/5349935015"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
